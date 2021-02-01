@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77291354625",
+    "project_id": "air-news-42447",
+    "storage_bucket": "air-news-42447.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77291354625:android:81ef8c0cf214165e06de00",
+        "android_client_info": {
+          "package_name": "phiz.app.airnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77291354625-eetprsfp4rf1i889m46re29lu9lnvftg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxyZKGwzieLIC7STPJsNJpn0_ULMHP32c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77291354625-eetprsfp4rf1i889m46re29lu9lnvftg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
